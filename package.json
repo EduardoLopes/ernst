@@ -1,0 +1,22 @@
+{
+  "name": "ernst",
+  "version": "0.0.0",
+  "description": "A Framework to Make Interactive Stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoLopes/ernst.git"
+  },
+  "author": "“Eduardo <EduardoLopesDS@gmail.com> (http://square64.tumblr.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EduardoLopes/ernst/issues"
+  },
+  "homepage": "https://github.com/EduardoLopes/ernst#readme",
+  "dependencies": {
+    "ernst-state-machine": "git+https://github.com/EduardoLopes/ernst-state-machine.git"
+  }
+}
